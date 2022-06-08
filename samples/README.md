@@ -28,7 +28,7 @@ https://sassoftware.github.io/sas-visualanalytics-thirdpartyvisualizations/sampl
 
 <img width="757" height="600" src="./images/d3_circlePacking.png">
 
-### D3 Funnel Chart | [Code](https://github.com/sassoftware/sas-visualanalytics-thirdpartyvisualizations/blob/master/samples/d3_FunnelChart.html) | [Demo](https://sassoftware.github.io/sas-visualanalytics-thirdpartyvisualizations/samples/d3_FunnelChart.html)
+### D3 Funnel Chart | [Code](https://github.com/niKLa696/sas-visualanalytics-thirdpartyvisualizations/blob/master/samples/d3_FunnelChart.html) | [Demo](https://github.com/niKLa696/sas-visualanalytics-thirdpartyvisualizations/samples/d3_FunnelChart.html)
 
 <img width="600" height="600" src="./images/d3_FunnelChart.png">
 
