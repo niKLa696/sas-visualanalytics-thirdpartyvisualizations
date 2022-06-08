@@ -3277,8 +3277,8 @@ D3Funnel.defaults = {
     label: {
         enabled: true,
         fontFamily: null,
-        fontSize: '14px',
-        fill: '#fff',
+        fontSize: '20px',
+        fill: '#001957',
         format: '{l}: {f}'
     },
     tooltip: {
